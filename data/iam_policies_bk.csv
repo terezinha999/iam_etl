@@ -1,0 +1,12 @@
+policy_id,user_id,role,plan_type,monthly_rate,premium,region,login_count,last_login_days
+P1001,U001,Admin,Enterprise,120,Yes,US,450,2
+P1002,U002,User,Basic,520,No,EU,120,30
+P1003,U003,User,Standard,50,Yes,US,300,5
+P1004,U004,Manager,Enterprise,120,Yes,APAC,200,10
+P1005,U005,User,Basic,320,No,EU,50,90
+P1006,U006,Admin,Enterprise,120,Yes,US,450,2
+P1006,U006,Admin,Enterprise,120,Yes,US,450,2
+P1007,U007,User,Standard,50,No,APAC,20,365
+P1008,U008,User,Standard,50,Yes,US,800,1
+P1009,U009,Manager,Enterprise,120,Yes,EU,150,15
+P1010,U010,User,Basic,320,No,US,5,400

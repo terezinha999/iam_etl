@@ -1,0 +1,7 @@
+name: iam_etl
+config-version: 2
+version: 1.0.0
+profile: iam_etl
+target-path: target
+test-paths: ["tests"]
+analysis-paths: ["models/analysis"]

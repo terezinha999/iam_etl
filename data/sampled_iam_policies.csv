@@ -1,0 +1,6 @@
+policy_id,user_id,role,plan_type,monthly_rate,premium,region,login_count,last_login_days,data_type
+P1009,U009,Manager,Standard,520,False,US,261,206,non-encrypted
+P1002,U002,Admin,Basic,520,True,EU,40,53,non-encrypted
+P1006,U006,Admin,Enterprise,MTIw,False,APAC,NjIw,MzY3,encrypted
+P1001,U001,Manager,Basic,NTIw,True,EU,NjY2,MzQ2,encrypted
+P1008,U008,User,Standard,50,False,APAC,33,35,non-encrypted

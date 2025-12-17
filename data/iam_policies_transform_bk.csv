@@ -1,0 +1,11 @@
+Policy_ID,User_ID,Role,Plan_Type,Monthly_Rate,Is_Premium,Region,Login_Count,Last_Login_Days,Monthly_Rate_Binned,Premium_Category,Plan_Info,Subscription_Status
+P1001,U001,Admin,Enterprise,120,True,US,450,2,Very High,High Premium,Enterprise - Very High,Active
+P1002,U002,User,Basic,520,False,EU,120,30,,Low Premium,Basic - nan,Inactive
+P1003,U003,User,Standard,50,True,US,300,5,Medium,High Premium,Standard - Medium,Active
+P1004,U004,Manager,Enterprise,120,True,APAC,200,10,Very High,High Premium,Enterprise - Very High,Active
+P1005,U005,User,Basic,320,False,EU,50,90,,Low Premium,Basic - nan,Inactive
+P1006,U006,Admin,Enterprise,120,True,US,450,2,Very High,High Premium,Enterprise - Very High,
+P1007,U007,User,Standard,50,False,APAC,20,365,Medium,Low Premium,Standard - Medium,
+P1008,U008,User,Standard,50,True,US,800,1,Medium,High Premium,Standard - Medium,
+P1009,U009,Manager,Enterprise,120,True,EU,150,15,Very High,High Premium,Enterprise - Very High,
+P1010,U010,User,Basic,320,False,US,5,400,,Low Premium,Basic - nan,

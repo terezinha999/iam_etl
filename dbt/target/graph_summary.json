@@ -1,0 +1,1 @@
+{"_invocation_id": "4c6a24eb-b5cf-4040-b8f2-d26271d97124", "linked": {"0": {"name": "source.iam_etl.public.iam_policies", "type": "source", "succ": [1]}, "1": {"name": "model.iam_etl.iam_policies", "type": "model", "succ": [2]}, "2": {"name": "test.iam_etl.iam_policies_premium_not_null", "type": "test"}}}

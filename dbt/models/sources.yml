@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: public
+    database: postgres
+    schema: public
+    tables:
+      - name: iam_policies
+        description: "The IAM policies table from Supabase"

@@ -1,0 +1,11 @@
+policy_id,user_id,role,plan_type,monthly_rate,premium,region,login_count,last_login_days,data_type
+P1001,U001,Manager,Basic,520,True,EU,666,346,encrypted
+P1002,U002,Admin,Basic,520,True,EU,40,53,non-encrypted
+P1003,U003,Manager,Enterprise,50,True,APAC,186,386,non-encrypted
+P1004,U004,Manager,Basic,50,True,EU,293,340,non-encrypted
+P1005,U005,Admin,Standard,520,False,APAC,407,92,non-encrypted
+P1006,U006,Admin,Enterprise,120,False,APAC,620,367,encrypted
+P1007,U007,Manager,Standard,120,False,US,335,264,non-encrypted
+P1008,U008,User,Standard,50,False,APAC,33,35,non-encrypted
+P1009,U009,Manager,Standard,520,False,US,261,206,non-encrypted
+P10010,U0010,Manager,Standard,50,True,APAC,796,81,non-encrypted
