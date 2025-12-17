@@ -1,0 +1,12 @@
+name: MLOps-CI
+on: [push] # This triggers the process every time you push code
+
+jobs:
+  test-etl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Simple Check
+        run: echo "GitHub Actions is successfully monitoring iam_etl!"
