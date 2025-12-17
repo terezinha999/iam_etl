@@ -1,0 +1,17 @@
+# Ignore specific file extensions
+*.csv
+*.xlsx
+*.json
+*.log
+*.sqlite3
+
+# Ignore Python temporary files
+__pycache__/
+*.pyc
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment/secret files (VERY IMPORTANT)
+.env
